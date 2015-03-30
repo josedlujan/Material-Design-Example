@@ -1,6 +1,6 @@
 # Material-Design-Example
 A simple example app to showcase material design stuff in android
-```
+
 # Contributions
 [Nishant Srivastava](https://google.com/+NishantSrivastava26)
 
